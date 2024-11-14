@@ -1,0 +1,10 @@
+../Core/Src/state.c:17:6:sr04_set_io	40	static
+../Core/Src/state.c:45:6:sr04_set_timer	32	static
+../Core/Src/state.c:80:6:sr04_timer_start	8	static
+../Core/Src/state.c:85:6:sr04_timer_stop	8	static
+../Core/Src/state.c:90:6:sr04_get_count_in_ms	4	static
+../Core/Src/state.c:95:6:sr04_clear_count	4	static
+../Core/Src/state.c:100:6:sr04_set_trigger	16	static
+../Core/Src/state.c:105:6:sr04_get_echo_state	8	static
+../Core/Src/state.c:110:6:sr04_get_range_in_meters	16	static
+../Core/Src/state.c:115:6:HAL_TIM_PeriodElapsedCallback	16	static
